@@ -1,6 +1,7 @@
 # 本人fork后增加了国内代理，脚本可在国内正常使用
 - 增加gost国内加速下载
-
+## 使用gost加国内落地机可完美搭建telegram socks
+[教程地址](https://19940816.xyz/post/guo-nei-yun-zhu-ji-gost-sui-dao-zhong-zhuan-jie-jue-telegram%20mtproxy-wu-fa-shi-yong-wen-ti.html)
 # Multi-EasyGost一键脚本使用指南
 ***
 ## 感谢: 
@@ -16,7 +17,7 @@
 ## 脚本
 
 * 启动脚本  
-  `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
+  `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/huawuhen/Multi-EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
 
 > 注：由于 gost v2.11.2 功能稳定，此脚本将一直采用该版本，后续不再跟随官方更新
